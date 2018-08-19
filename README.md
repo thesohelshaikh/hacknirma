@@ -1,6 +1,4 @@
-# Hack Nirma
-
-<h3 align="center">Hack Nirma</h3>
+<h1 align="center">Hack Nirma</h1>
 <p align="center">
-  Path to a free self-taught education in Computer Science!
+  🎓 Path to hack Computer Science (BTech) at @NirmaUni
 </p>
