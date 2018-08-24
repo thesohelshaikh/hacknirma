@@ -1,4 +1,4 @@
-![Hack nirma](https://i.imgur.com/gwNbVuD.jpg)
+![Hack nirma](https://imgur.com/gwNbVuD)
 
 <h1 align="center">Hack Nirma</h1>
 <p align="center">
