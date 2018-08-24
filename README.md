@@ -21,13 +21,32 @@
 - [Code of conduct](#code-of-conduct)
 - [References](#references)
 
-## First Sememster
+## Disclaimer
 
-Subject code | Subject | Prerequisites
-:-- | :--: | :--:
+## Curriculam
+
+### First Sememster
+
+Subject code | Subject | Prerequisites 
+:---: | :--- | :---:
 CY102 | Chemistry | none
 CL103 | Environmental Studies | none
 ME103 | Engineering Graphics | none
 CE104 | Computer Programming | none
 HS101B | English Communication | none
 MA102 | Calculus and Differential Equations | none
+
+### Second Semester
+
+| Subject Code |                       Subject                      | Prerequisites |
+|:------------:|:---------------------------------------------------|:-------------:|
+|     ME104    | Mechanical Workshop                                |      none     |
+|     EE103    | Elements of Electrical and Electronics Engineering |      none     |
+|     EE104    | Electrical Workshop                                |      none     |
+|     CE105    | Introduction to Computer Science                   |      none     |
+|     MA202    | Linear Algebra                                     |      none     |
+|     PY103    | Physics                                            |      none     |
+
+## Code of conduct
+
+## References
