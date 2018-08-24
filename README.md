@@ -4,3 +4,30 @@
 <p align="center">
   🎓 Path to hack Computer Science (BTech) at Nirma University
 </p>
+
+# Contents
+
+- [Summary](#summary)
+- [Disclaimer](#disclaimer)
+- [Curriculum](#curriculum)
+  - [First Semester](#first-semester)
+  - [Second Semester](#secondsem)
+  - [Third Semester](#thirdsem)
+  - [Fourth Semester](#fourthsem)
+  - [Fifth Semester](#fifthsem)
+  - [Sixth Semester](#sixthsem)
+  - [Seventh Semester](#seventhsem)
+  - [Eighth Semester](#eighthsem)
+- [Code of conduct](#code-of-conduct)
+- [References](#references)
+
+## First Sememster
+
+Subject code | Subject | Prerequisites
+:-- | :--: | :--:
+CY102 | Chemistry | none
+CL103 | Environmental Studies | none
+ME103 | Engineering Graphics | none
+CE104 | Computer Programming | none
+HS101B | English Communication | none
+MA102 | Calculus and Differential Equations | none
