@@ -1,4 +1,4 @@
-![Hack nirma](https://user-images.githubusercontent.com/26832180/44600417-db6dce00-a7f6-11e8-9f7b-1ac4e17df0c3.jpg)
+![Hack nirma](https://user-images.githubusercontent.com/26832180/44780199-0497b100-ab9f-11e8-87e6-b3867fc0db42.png)
 
 <h1 align="center">Hack Nirma</h1>
 <p align="center">
