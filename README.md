@@ -32,12 +32,12 @@
 
 | Subject Code |               Subject               |  Prerequisites  |
 |:------------:|:------------------------------------|:---------------:|
-|     CY102    | Chemistry                           |       none      |
-|     CL103    | Environmental Studies               |       none      |
-|     ME103    | Engineering Graphics                |       none      |
 |     CE104    | Computer Programming                |       none      |
-|    HS101B    | English Communucation               |       none      |
 |     MA102    | Calculus and Differential Equations | Calculus basics |
+|     ME103    | Engineering Graphics                |       none      |
+|    HS101B    | English Communucation               |       none      |
+|     CY102    | Chemistry                           |       Organic Chemistry basics      |
+|     CL103    | Environmental Studies               |       none      |
 
 ### Second Semester
 
