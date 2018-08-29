@@ -35,7 +35,7 @@
 |     CE104    | Computer Programming                |       none      |
 |     MA102    | Calculus and Differential Equations | Calculus basics |
 |     ME103    | Engineering Graphics                |       none      |
-|    HS101B    | English Communucation               |       none      |
+|    HS101B    | English Communication               |       none      |
 |     CY102    | Chemistry                           |       Organic Chemistry basics      |
 |     CL103    | Environmental Studies               |       none      |
 
