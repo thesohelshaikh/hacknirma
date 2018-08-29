@@ -91,6 +91,8 @@
 |     SP501    | Fractional Course          |      none     |
 |     CE505    | Mini Project - II          |      none     |
 
+## Important Websites
+
 ## Additional Resources
 
 ## Code of conduct
