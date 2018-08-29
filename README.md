@@ -25,7 +25,8 @@
 ## Disclaimer
 
 ## Prerequisites
-
+- [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
+- [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/course/)
 ## Curriculam
 
 ### First Sememster
