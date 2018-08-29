@@ -9,6 +9,7 @@
 
 - [Summary](#summary)
 - [Disclaimer](#disclaimer)
+- [Prerequisites](#prerequisites)
 - [Curriculum](#curriculum)
   - [First Semester](#first-semester)
   - [Second Semester](#secondsem)
@@ -22,6 +23,8 @@
 - [References](#references)
 
 ## Disclaimer
+
+## Prerequisites
 
 ## Curriculam
 
@@ -46,6 +49,8 @@
 |     CE105    | Introduction to Computer Science                   |      none                               |
 |     MA202    | Linear Algebra                                     | Matrices & Determinants                 |
 |     PY103    | Physics                                            | Basics of Quantum Mechanics, Ray Optics |
+
+## Additional Resources
 
 ## Code of conduct
 
