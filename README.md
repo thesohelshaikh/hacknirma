@@ -92,9 +92,15 @@
 |     CE505    | Mini Project - II          |      none     |
 
 ## Important Websites
+- [Timetable](http://apps.nirmauni.ac.in/tt/cse/)
+- [Moodle](http://ams.nirmauni.ac.in/moodle259/login/index.php)
 
 ## Additional Resources
 
-## Code of conduct
+## Honor Policy
+
+## Contributing
+
+## Ask for help
 
 ## References
