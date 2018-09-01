@@ -49,7 +49,7 @@
   <p>  For a deeper understanding of the the theoretical Knowledge, youtube videos are quite resourceful. Particularly, video tutorials by thenewboston are very helpful.
   Here, is a link to thenewboston's C Programming tutorials
   </p>
-  - [C Programming tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
+  - [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 
 ### Second Semester
 
