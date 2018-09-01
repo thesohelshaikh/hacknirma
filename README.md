@@ -42,6 +42,13 @@
 |     CY102    | Chemistry                           |       Organic Chemistry basics      |
 |     CL103    | Environmental Studies               |       none      |
 
+## First Semester
+
+# Computer Programming
+  -  Practical Knowledge
+  <p>  For a deeper understanding of the the theoretical Knowledge, [youtube](https://www.youtube.com) videos are quite resourceful. Particularly, video tutorials by [thenewboston](https://www.youtube.com/user/thenewboston) are very helpful.
+  Here, is a link to thenewboston's [C Programming tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)</p>
+
 ### Second Semester
 
 | Subject Code |                       Subject                      | Prerequisites                           |
