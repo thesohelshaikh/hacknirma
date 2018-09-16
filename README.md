@@ -52,8 +52,8 @@ This course was designed by students at Nirma University and in now way can subs
 |     CL103    | Environmental Studies               |       none      |
 
 #### CE104 Computer Programming
-  - Practical Knowledge
-    - [C Programming tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
+**Practical**
+- [C Programming tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
      
      *For a deeper understanding of the the theoretical Knowledge, youtube videos are quite resourceful. Particularly, video tutorials by thenewboston are very helpful.*
 
