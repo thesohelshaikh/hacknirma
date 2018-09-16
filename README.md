@@ -51,11 +51,11 @@ This course was designed by students at Nirma University and in now way can subs
 |     CY102    | Chemistry                           |       Organic Chemistry basics      |
 |     CL103    | Environmental Studies               |       none      |
 
-#### First Semester
-
-##### Computer Programming
-  -  Practical Knowledge
-     > For a deeper understanding of the the theoretical Knowledge, youtube videos are quite resourceful. Particularly, video tutorials by thenewboston are very helpful.Here, is a link to thenewboston's  [C Programming tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
+#### CE104 Computer Programming
+  - Practical Knowledge
+    - [C Programming tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
+     
+     *For a deeper understanding of the the theoretical Knowledge, youtube videos are quite resourceful. Particularly, video tutorials by thenewboston are very helpful.*
 
 ### Second Semester
 
