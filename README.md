@@ -23,12 +23,21 @@
 - [References](#references)
 
 ## Summary
+This curriculam was designed to help you with your Bachelor's for computer engineering using online material. The aim is give you complete understanding of the field including indutry standards and best practices. The goal is not to score high grades although if followed correctly scoring marks will be easy. 
+
+The courses prescribed are from the top universities and often best in their field and often there are no substitutes. Still feel free to post ans issue if you have found a resource that could help us.
 
 ## Disclaimer
+This course was designed by students at Nirma University and in now way can substitute a Bachelor's Degree. This curriculam doesn't guarantee good grades or a job. You are solely responsible if you choose to pursue this curriculam or any of the below mentioned courses.
 
 ## Prerequisites
 - [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
-- [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/course/)
+    
+  *You dont need to complete the course, however you are expected to complete the course uptill where it deviates from C and moves on to python. Also if you have the time you can complete the course.*
+  
+- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/) **(Optional)**
+
+  *This course teaches you a lot about how you brain works and what are the best memorization techniques. You can skip this if you are confident with your learning skills.*
 ## Curriculam
 
 ### First Sememster
