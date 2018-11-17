@@ -99,14 +99,29 @@ This course was designed by students at Nirma University and in now way can subs
 
 | Subject Code |           Subject          | Prerequisites |
 |:------------:|:--------------------------:|:-------------:|
-|     CE501    | Theory of Computation      |      none     |
+|     CE501    | Theory of Computation      |      MFCS     |
 |     CE502    | Database Management System |      none     |
-|     CE503    | Computer Networks          |      none     |
-|     CE504    | Operating Systems          |      none     |
+|     CE503    | Computer Networks          |      DC       |
+|     CE504    | Operating Systems          |    AOP/EOP    |
 |     IT502    | Web Designing              |      none     |
 |     SS562    | Law for Engineers          |      none     |
 |     SP501    | Fractional Course          |      none     |
 |     CE505    | Mini Project - II          |      none     |
+
+#### CE501 Theory of Computation
+*This is the most abtract and fundamental subject of Computer Science so you might want to pay extra attention to this subject.*
+
+**Video Tutorials**
+- [Ravindrababu Ravula](https://www.youtube.com/watch?v=eqCkkC9A0Q4&index=1&list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK)
+- [Neso Academy](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&index=1)
+- [Sanchit Jain](https://www.youtube.com/watch?v=00cXiux2Kjk&list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T)
+
+## Exam Preparation checklist
+*This method always guranteed 80-90% marks if followed correctly.*
+- [ ] Complete Syllabus
+- [ ] Go through lecture notes
+- [ ] Solve Tutorials
+- [ ] Solve previous year's question paper
 
 ## Important Websites
 - [Timetable](http://apps.nirmauni.ac.in/tt/cse/)
