@@ -111,10 +111,20 @@ This course was designed by students at Nirma University and in now way can subs
 #### CE501 Theory of Computation
 *This is the most abtract and fundamental subject of Computer Science so you might want to pay extra attention to this subject.*
 
-**Video Tutorials**
+**Theory**
 - [Ravindrababu Ravula](https://www.youtube.com/watch?v=eqCkkC9A0Q4&index=1&list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK)
 - [Neso Academy](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&index=1)
 - [Sanchit Jain](https://www.youtube.com/watch?v=00cXiux2Kjk&list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T)
+
+#### CE504 Operating Systems
+*This course will be very helpful at the time of interviews and as a CS student you must have youre core concepts clear.*
+
+**Theory:**
+- [Online Course: Introduction to Operating Systems](https://classroom.udacity.com/courses/ud923/)
+
+**Practicals:**
+- [UNIX / LINUX Tutorial from Tutorialspoint](https://www.tutorialspoint.com/unix/index.htm)
+
 
 ## Exam Preparation checklist
 *This method always guranteed 80-90% marks if followed correctly.*
