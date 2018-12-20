@@ -46,6 +46,7 @@ These are'nt prerequisites you should be already knowing rather these are concep
 
 | Subject Code |               Subject               |  Prerequisites  |
 |:------------:|:------------------------------------|:---------------:|
+|     SP105    | ICT Tools and Cyber Security        |       none      |
 |     CE104    | Computer Programming                |       none      |
 |     MA102    | Calculus and Differential Equations | Calculus basics |
 |     ME103    | Engineering Graphics                |       none      |
@@ -65,12 +66,22 @@ These are'nt prerequisites you should be already knowing rather these are concep
 |     ME104    | Mechanical Workshop                                |      none                               |
 |     EE103    | Elements of Electrical and Electronics Engineering |      none                               |
 |     EE104    | Electrical Workshop                                |      none                               |
-|     CE105    | Introduction to Computer Science                   |      none                               |
+|     CE105    | Introduction to Computer Science and Engineering   |      none                               |
 |     MA202    | Linear Algebra                                     | Matrices & Determinants                 |
 |     PY103    | Physics                                            | Basics of Quantum Mechanics, Ray Optics |
+|     SP104    | Law and Engineering                                |      none                               |
+|     SP103    | Design Thinking                                    |      none                               |
 
 #### MA202 Linear Algebra
+
+**Theory**
 - [Linear Algebra - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+- [Essence of Linear Algebra - YouTube playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+#### CE105 Introduction to Computer Science and Engineering
+
+**Theory**
+- [Introduction to Computer Science and Programming using Python - edX](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
 
 ### Third Semester
 
