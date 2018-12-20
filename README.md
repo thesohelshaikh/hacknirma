@@ -13,12 +13,12 @@
 - [Curriculum](#curriculum)
   - [First Semester](#first-semester)
   - [Second Semester](#second-semester)
-  - [Third Semester](#thirdsem)
-  - [Fourth Semester](#fourthsem)
-  - [Fifth Semester](#fifthsem)
-  - [Sixth Semester](#sixthsem)
-  - [Seventh Semester](#seventhsem)
-  - [Eighth Semester](#eighthsem)
+  - [Third Semester](#third-semester)
+  - [Fourth Semester](#fourth-semester)
+  - [Fifth Semester](#fifth-semester)
+  - [Sixth Semester](#sixth-semester)
+  - [Seventh Semester](#seventh-semester)
+  - [Eighth Semester](#eighth-semester)
 - [Code of conduct](#code-of-conduct)
 - [References](#references)
 
@@ -42,7 +42,7 @@ These are'nt prerequisites you should be already knowing rather these are concep
   *This course teaches you a lot about how you brain works and what are the best memorization techniques. You can skip this if you are confident with your learning skills.*
 ## Curriculam
 
-### First Sememster
+### First Semester
 
 | Subject Code |               Subject               |  Prerequisites  |
 |:------------:|:------------------------------------|:---------------:|
