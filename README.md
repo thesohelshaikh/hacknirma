@@ -12,7 +12,7 @@
 - [Prerequisites](#prerequisites)
 - [Curriculum](#curriculum)
   - [First Semester](#first-semester)
-  - [Second Semester](#secondsem)
+  - [Second Semester](#second-semester)
   - [Third Semester](#thirdsem)
   - [Fourth Semester](#fourthsem)
   - [Fifth Semester](#fifthsem)
