@@ -31,6 +31,8 @@ The courses prescribed are from the top universities and often best in their fie
 This course was designed by students at Nirma University and cannot substitute a Bachelor's Degree. This curriculum doesn't guarantee good grades or a job. You are solely responsible if you choose to pursue this curriculum or any of the below mentioned courses.
 
 ## Prerequisites
+These are'nt prerequisites you should be already knowing rather these are concepts which are better if cleared before taking up the regular courses. 
+
 - [Introduction to Computer Science CS50 - edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
     
   *You dont need to complete the course, however you are expected to complete the course uptill where it deviates from C and moves on to python. Also if you have the time you can complete the course.*
