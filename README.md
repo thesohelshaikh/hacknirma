@@ -23,19 +23,19 @@
 - [References](#references)
 
 ## Summary
-This curriculam was designed to help you with your Bachelor's for computer engineering using online material. The aim is give you complete understanding of the field including indutry standards and best practices. The goal is not to score high grades although if followed correctly scoring marks will be easy. 
+This curriculum was designed to help you with your Bachelor's for computer engineering using online material. The aim is give you complete understanding of the field including industry standards and best practices. The goal is not to score high grades although if followed correctly scoring marks will be easy. We have compiled some of the best resources for each domain available freely online. 
 
-The courses prescribed are from the top universities and often best in their field and often there are no substitutes. Still feel free to post ans issue if you have found a resource that could help us.
+The courses prescribed are from the top universities and often best in their field and often there are no substitutes. Still feel free to post an issue if you have found a resource that could help us.
 
 ## Disclaimer
-This course was designed by students at Nirma University and in now way can substitute a Bachelor's Degree. This curriculam doesn't guarantee good grades or a job. You are solely responsible if you choose to pursue this curriculam or any of the below mentioned courses.
+This course was designed by students at Nirma University and cannot substitute a Bachelor's Degree. This curriculum doesn't guarantee good grades or a job. You are solely responsible if you choose to pursue this curriculum or any of the below mentioned courses.
 
 ## Prerequisites
-- [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
+- [Introduction to Computer Science CS50 - edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
     
   *You dont need to complete the course, however you are expected to complete the course uptill where it deviates from C and moves on to python. Also if you have the time you can complete the course.*
   
-- [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/) **(Optional)**
+- [Learning How to Learn - Coursera](https://www.coursera.org/learn/learning-how-to-learn/) **(Optional)**
 
   *This course teaches you a lot about how you brain works and what are the best memorization techniques. You can skip this if you are confident with your learning skills.*
 ## Curriculam
@@ -53,9 +53,8 @@ This course was designed by students at Nirma University and in now way can subs
 
 #### CE104 Computer Programming
 **Practical**
-- [C Programming tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
-     
-     *For a deeper understanding of the the theoretical Knowledge, youtube videos are quite resourceful. Particularly, video tutorials by thenewboston are very helpful.*
+- [C Programming tutorials - YouTube playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
+
 
 ### Second Semester
 
@@ -67,6 +66,9 @@ This course was designed by students at Nirma University and in now way can subs
 |     CE105    | Introduction to Computer Science                   |      none                               |
 |     MA202    | Linear Algebra                                     | Matrices & Determinants                 |
 |     PY103    | Physics                                            | Basics of Quantum Mechanics, Ray Optics |
+
+#### MA202 Linear Algebra
+- [Linear Algebra - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
 ### Third Semester
 
@@ -81,19 +83,48 @@ This course was designed by students at Nirma University and in now way can subs
 |     SP344    | Community Services                          |      none     |
 |     MA306    | Applied Mathematics                         |      none     |
 
+#### EC321 Basic Electronics
+
+**Theory**
+- [Analog Electronics Neso Academy - YouTube playlist](https://www.youtube.com/watch?v=7jaa1rlW7Ak&list=PLBlnK6fEyqRiw-GZRqfnlVIBz9dxrqHJS)
+- [JK smart classes - YouTube playlist](https://www.youtube.com/watch?v=OpekbjUZLTA&list=PLAC_Cbcu1aCOsS93CEFjqATvUm4Z23SIA) *(Optional) This is only for beginners who don't have any prior knowledge of the subject.*
+
+#### CE301 Digital Systems
+
+**Theory**
+- [Neso Academy - YouTube playlist](https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
+- [Build a Modern Computer from First Principles: From Nand to Tetris - Coursera](https://www.coursera.org/learn/build-a-computer)
+
 ### Fourth Semester
 
 | Subject Code |                    Subject                    | Prerequisites |
 |:------------:|:---------------------------------------------:|:-------------:|
 |     CE401    | Data Communication                            |      none     |
-|     CE301    | Computer Organization                         |      none     |
-|     CE302    | Data Structures                               |      none     |
-|     CE405    | Probability Statistics and Numerical Analysis |      none     |
+|     CE402    | Computer Organization                         |      none     |
+|     CE403    | Data Structures                               |      none     |
+|     MA403    | Probability Statistics and Numerical Analysis |      none     |
 |     CE404    | Seminar                                       |      none     |
 |     CE405    | Mini Project - I                              |      none     |
 |     SP341    | Ethics and Values                             |      none     |
 |     SS341    | Economics for Engineers                       |      none     |
 |     CE406    | Computer Peripherals Workshop                 |      none     |
+
+#### CE403 Data Structures
+
+**Theory**
+- [Data Structures- GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
+- [Data Structures mycodeschool - YouTube playlist](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+
+#### MA403 Probability Statistics and Numerical Analysis
+
+**Theory**
+- [Mathematics for Computer Science - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+
+#### SP341 Ethics and Values
+
+**Theory**
+- [Justice - edX](https://www.edx.org/course/justice)
+- [Psychology CrashCourse - YouTube playlist](https://www.youtube.com/watch?v=vo4pMVb0R6M&list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6)
 
 ### Fifth Semester
 
@@ -112,19 +143,56 @@ This course was designed by students at Nirma University and in now way can subs
 *This is the most abtract and fundamental subject of Computer Science so you might want to pay extra attention to this subject.*
 
 **Theory**
-- [Ravindrababu Ravula](https://www.youtube.com/watch?v=eqCkkC9A0Q4&index=1&list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK)
-- [Neso Academy](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&index=1)
-- [Sanchit Jain](https://www.youtube.com/watch?v=00cXiux2Kjk&list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T)
+- [Ravindrababu Ravula - YouTube playlist](https://www.youtube.com/watch?v=eqCkkC9A0Q4&index=1&list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK)
+- [Neso Academy - YouTube playlist](https://www.youtube.com/watch?v=58N2N7zJGrQ&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&index=1)
+- [Sanchit Jain - YouTube playlist](https://www.youtube.com/watch?v=00cXiux2Kjk&list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T)
+- [Automata Theory - Stanford lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+SelfPaced/about)*(Optional)*
+
+#### CE502 Database Management Systems
+*Knowledge from this subject will be helpful in most of the applications.*
+
+**Theory**
+- [Stanford Database Courses- Stanford lagunita](https://lagunita.stanford.edu/courses/Home/Databases/Engineering/about)
+- [Knowledge Gate - YouTube playlist](https://www.youtube.com/watch?v=eTiP-H9GQ30&list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV)
+- [Gate Smashers - YouTube playlist](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
+
+**Practicals**
+- [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)
+- [SQL Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/sql-tutorial/)
+
+#### CE501 Computer Networks
+
+**Theory**
+- [Introduction to Computer Networking - Stanford lagunita](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
+- [The Bits and Bytes of Computer Networking - Coursera](https://www.coursera.org/learn/computer-networking)
 
 #### CE504 Operating Systems
-*This course will be very helpful at the time of interviews and as a CS student you must have youre core concepts clear.*
+*This course will be very helpful at the time of interviews and as a CS student you must have the core concepts clear.*
 
 **Theory:**
-- [Online Course: Introduction to Operating Systems](https://classroom.udacity.com/courses/ud923/)
+- [Introduction to Operating Systems - Udacity](https://classroom.udacity.com/courses/ud923/)
+- [Advanced Opertating Systems - Udacity](https://in.udacity.com/course/advanced-operating-systems--ud189)
 
 **Practicals:**
 - [UNIX / LINUX Tutorial from Tutorialspoint](https://www.tutorialspoint.com/unix/index.htm)
 
+#### IT502 Web Designing
+
+**Theory**
+- [HTML5 and CSS Fundamentals - edX](https://www.edx.org/course/html5-and-css-fundamentals)
+- [JavaScript Introduction - edX](https://www.edx.org/course/javascript-introduction)
+
+**Practicals**
+- [HTML5 Tutorial - W3Schools](https://www.w3schools.com/html/default.asp)
+- [CSS Tutorial - W3Schools](https://www.w3schools.com/css/default.asp)
+- [JavaScript Tutorial- W3Schools](https://www.w3schools.com/js/default.asp)
+- [Responsive Web Design - freeCodeCamp](https://learn.freecodecamp.org/)
+- [Traversy media - YouTube](https://www.youtube.com/user/TechGuyWeb/playlists)
+
+#### SS562 Law for Engineers 
+
+**Theory**
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLgNUCz66KaWSlBNiBY-GGs935p4dT1GiS)
 
 ## Exam Preparation checklist
 *This method always guranteed 80-90% marks if followed correctly.*
@@ -142,6 +210,7 @@ This course was designed by students at Nirma University and in now way can subs
 ## Honor Policy
 
 ## Contributing
+If you find a link broken or have better alternative resources you can contibute by submitting an issue or a pull request.
 
 ## Ask for help
 
