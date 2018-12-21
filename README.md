@@ -228,6 +228,11 @@ These are'nt prerequisites you should be already knowing rather these are concep
 |     SS561    |        Creativity and Innovation        |       none      |
 |     CE602    |            Mini Project- III            |       none      |
 |     SP601    | Capstone Course ( Computer Engineering) |       none      |
+|     CE621    |               Java Technologies (Elective I)              |      none     |
+|     CE661    | Mobile Applications Development Technologies (Elective I) |      none     |
+|     IT652    |       Network Security and Encryption (Elective II)       |      none     |
+|     IT662    |               Cloud Computing (Elective II)               |      none     |
+|     CE623    |              Machine Learning (Elective III)              |      none     |
 
 ### Seventh Semester
 
