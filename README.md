@@ -87,14 +87,14 @@ These are'nt prerequisites you should be already knowing rather these are concep
 
 | Subject Code |                   Subject                   | Prerequisites |
 |:------------:|:-------------------------------------------:|:-------------:|
-|     EC321    | Basic Electronics                           |      none     |
+|     EC321    | Basic Electronics                           |      EEE      |
 |     CE301    | Digital Systems                             |      none     |
 |     CE302    | Object Oriented Programming                 |      none     |
 |     CE303    | Mathematical foundation of Computer Science |      none     |
 |     SS342    | ICT Tools and Security                      |      none     |
 |     SP343    | Enterpreneurship                            |      none     |
 |     SP344    | Community Services                          |      none     |
-|     MA306    | Applied Mathematics                         |      none     |
+|     MA306    | Applied Mathematics                         |      Calculus     |
 
 #### EC321 Basic Electronics
 
@@ -107,6 +107,7 @@ These are'nt prerequisites you should be already knowing rather these are concep
 **Theory**
 - [Neso Academy - YouTube playlist](https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
 - [Build a Modern Computer from First Principles: From Nand to Tetris - Coursera](https://www.coursera.org/learn/build-a-computer)
+- [Digital Circuits - MITx edx](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0)
 
 #### CE303 Mathematical foundation of Computer Science
 
@@ -118,14 +119,20 @@ These are'nt prerequisites you should be already knowing rather these are concep
 | Subject Code |                    Subject                    | Prerequisites |
 |:------------:|:---------------------------------------------:|:-------------:|
 |     CE401    | Data Communication                            |      none     |
-|     CE402    | Computer Organization                         |      none     |
-|     CE403    | Data Structures                               |      none     |
+|     CE402    | Computer Organization                         |      DS       |
+|     CE403    | Data Structures                               |      CP / AOP |
 |     MA403    | Probability Statistics and Numerical Analysis |      none     |
 |     CE404    | Seminar                                       |      none     |
 |     CE405    | Mini Project - I                              |      none     |
 |     SP341    | Ethics and Values                             |      none     |
 |     SS341    | Economics for Engineers                       |      none     |
 |     CE406    | Computer Peripherals Workshop                 |      none     |
+
+#### CE402 Computer Organization
+
+**Theory**
+- [Computer Architecture - MITx edx](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x)
+- [Computer Organization - MITx edx](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0)
 
 #### CE403 Data Structures
 
