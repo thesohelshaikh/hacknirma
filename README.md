@@ -219,6 +219,34 @@ These are'nt prerequisites you should be already knowing rather these are concep
 **Theory**
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLgNUCz66KaWSlBNiBY-GGs935p4dT1GiS)
 
+### Sixth Semester
+
+| Subject Code |                 Subject                 |  Prerequisites  |
+|:------------:|:---------------------------------------:|:---------------:|
+|     CE601    |    Design and Analysis of Algorithms    | Data Structures |
+|     IT601    |           Software Engineering          |       none      |
+|     SS561    |        Creativity and Innovation        |       none      |
+|     CE602    |            Mini Project- III            |       none      |
+|     SP601    | Capstone Course ( Computer Engineering) |       none      |
+
+### Seventh Semester
+
+| Subject Code |             Subject             | Prerequisites |
+|:------------:|:-------------------------------:|:-------------:|
+|     IT724    |     Artificial Intelligence     |      none     |
+|     IT794    |      Compiler Construction      |      none     |
+|     CE701    | Interfacing with Microprocessor |      none     |
+|     CE703    |   Open source development lab   |      none     |
+|     SS701    |     Organizational Behaviour    |      none     |
+|     SP701    |        Practical Training       |      none     |
+|     CE702    |          Minor Project          |      none     |
+
+### Eighth Semester
+
+| Subject Code |    Subject    | Prerequisites |
+|:------------:|:-------------:|:-------------:|
+|     CE801    | Major Project |      none     |
+
 ## Exam Preparation checklist
 *This method always guranteed 80-90% marks if followed correctly.*
 - [ ] Complete Syllabus
