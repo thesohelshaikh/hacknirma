@@ -108,6 +108,11 @@ These are'nt prerequisites you should be already knowing rather these are concep
 - [Neso Academy - YouTube playlist](https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
 - [Build a Modern Computer from First Principles: From Nand to Tetris - Coursera](https://www.coursera.org/learn/build-a-computer)
 
+#### CE303 Mathematical foundation of Computer Science
+
+**Theory**
+- [Math for Computer Science - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+
 ### Fourth Semester
 
 | Subject Code |                    Subject                    | Prerequisites |
