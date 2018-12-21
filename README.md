@@ -40,7 +40,7 @@ These are'nt prerequisites you should be already knowing rather these are concep
 - [Learning How to Learn - Coursera](https://www.coursera.org/learn/learning-how-to-learn/) **(Optional)**
 
   *This course teaches you a lot about how you brain works and what are the best memorization techniques. You can skip this if you are confident with your learning skills.*
-## Curriculam
+## Curriculum
 
 ### First Semester
 
@@ -81,7 +81,7 @@ These are'nt prerequisites you should be already knowing rather these are concep
 #### CE105 Introduction to Computer Science and Engineering
 
 **Theory**
-- [Introduction to Computer Science and Programming using Python - edX](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
+- [Introduction to Computer Science and Programming using Python - MITx edX](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
 
 ### Third Semester
 
