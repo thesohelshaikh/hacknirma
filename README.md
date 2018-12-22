@@ -246,6 +246,11 @@ These are'nt prerequisites you should be already knowing rather these are concep
 |     SP701    |        Practical Training       |      none     |
 |     CE702    |          Minor Project          |      none     |
 
+#### IT724 Artificial Intelligence
+
+**Theory**
+- [Well Academy - YouTube playlist](https://www.youtube.com/playlist?list=PL9zFgBale5fug7z_YlD9M0x8gdZ7ziXen)
+
 ### Eighth Semester
 
 | Subject Code |    Subject    | Prerequisites |
