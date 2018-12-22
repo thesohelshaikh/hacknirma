@@ -270,6 +270,12 @@ These are'nt prerequisites you should be already knowing rather these are concep
 
 ## Additional Resources
 
+## YouTube channels to subscribe
+*It's quite easy to waste a lot of time on YouTube, subscribe to these channels and you might end up learning something as well.* 
+
+## Binge Worthy
+*No one likes to study at all times, here are a few TV shows and movies you must watch.*
+
 ## Honor Policy
 
 ## Contributing
