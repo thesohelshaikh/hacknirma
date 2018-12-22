@@ -31,11 +31,11 @@ The courses prescribed are from the top universities and often best in their fie
 This course was designed by students at Nirma University and cannot substitute a Bachelor's Degree. This curriculum doesn't guarantee good grades or a job. You are solely responsible if you choose to pursue this curriculum or any of the below mentioned courses.
 
 ## Prerequisites
-These are'nt prerequisites you should be already knowing rather these are concepts which are better if cleared before taking up the regular courses. 
+These aren't prerequisites you should be already knowing rather these are concepts which are better if cleared before taking up the regular courses. 
 
 - [Introduction to Computer Science CS50 - edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
     
-  *You dont need to complete the course, however you are expected to complete the course uptill where it deviates from C and moves on to python. Also if you have the time you can complete the course.*
+  *You don't need to complete the course, however you are expected to complete the course uptill where it deviates from C and moves on to python. Also if you have the time you can complete the course.*
   
 - [Learning How to Learn - Coursera](https://www.coursera.org/learn/learning-how-to-learn/) **(Optional)**
 
@@ -139,6 +139,7 @@ These are'nt prerequisites you should be already knowing rather these are concep
 **Theory**
 - [Data Structures- GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
 - [Data Structures mycodeschool - YouTube playlist](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
+- [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
 
 #### MA403 Probability Statistics and Numerical Analysis
 
@@ -196,7 +197,7 @@ These are'nt prerequisites you should be already knowing rather these are concep
 
 **Theory:**
 - [Introduction to Operating Systems - Udacity](https://classroom.udacity.com/courses/ud923/)
-- [Advanced Opertating Systems - Udacity](https://in.udacity.com/course/advanced-operating-systems--ud189)
+- [Advanced Operating Systems - Udacity](https://in.udacity.com/course/advanced-operating-systems--ud189)
 
 **Practicals:**
 - [UNIX / LINUX Tutorial from Tutorialspoint](https://www.tutorialspoint.com/unix/index.htm)
@@ -234,6 +235,16 @@ These are'nt prerequisites you should be already knowing rather these are concep
 |     IT662    |               Cloud Computing (Elective II)               |      none     |
 |     CE623    |              Machine Learning (Elective III)              |      none     |
 
+#### CE601 Design and Analysis of Algorithms
+
+**Theory**
+- [Design and Analysis of Algorithms - NPTEL](https://nptel.ac.in/courses/106101060/)
+
+#### CE623 Machine Learning
+
+**Theory**
+- [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
+
 ### Seventh Semester
 
 | Subject Code |             Subject             | Prerequisites |
@@ -250,6 +261,7 @@ These are'nt prerequisites you should be already knowing rather these are concep
 
 **Theory**
 - [Well Academy - YouTube playlist](https://www.youtube.com/playlist?list=PL9zFgBale5fug7z_YlD9M0x8gdZ7ziXen)
+- [Intro to AI - Udacity](https://in.udacity.com/course/intro-to-artificial-intelligence--cs271)
 
 ### Eighth Semester
 
