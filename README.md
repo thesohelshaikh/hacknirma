@@ -364,6 +364,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [How to Adult](https://www.youtube.com/channel/UCFqaprvZ2K5JOULCvr18NTQ)
 - [It's Okay To Be Smart](https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw)
 - [Jordan B Peterson](https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q)
+- [Sam Harris](https://www.youtube.com/user/samharrisorg)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
 - [LEMMiNO](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
@@ -406,6 +407,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Westworld](https://www.imdb.com/title/tt0475784/?ref_=nv_sr_1)
 - [Silicon Valley](https://www.imdb.com/title/tt2575988/?ref_=nv_sr_1)
 - [Genius](https://www.imdb.com/title/tt5673782/?ref_=fn_al_tt_1)
+- [The IT Crowd](https://www.imdb.com/title/tt0487831/)
 
 ## Contributing
 If you find a link broken or have better alternative resources you can contibute by submitting an issue or a pull request.
