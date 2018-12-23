@@ -5,6 +5,12 @@
   🎓 Path to hack Computer Science (BTech) at Nirma University
 </p>
 
+
+<p align="center">
+    <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+</p>
+
 # Contents
 
 - [Summary](#summary)
@@ -29,6 +35,8 @@ The courses prescribed are from the top universities and often best in their fie
 
 ## Disclaimer
 This course was designed by students at Nirma University and cannot substitute a Bachelor's Degree. This curriculum doesn't guarantee good grades or a job. You are solely responsible if you choose to pursue this curriculum or any of the below mentioned courses.
+
+This courses are additional to the text prescribed in syllabus and thus it is very important to read the text first and use these resurces in a complimentary manner.
 
 ## Prerequisites
 These aren't prerequisites you should be already knowing rather these are concepts which are better if cleared before taking up the regular courses. 
@@ -290,18 +298,117 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Moodle](http://ams.nirmauni.ac.in/moodle259/login/index.php)
 
 ## Additional Resources
+*At this point several resources might be repeating themselves but we don't want to miss any.*
+
+- [OSSU Computer science](https://github.com/ossu/computer-science)
+- [GitHub Résumé](https://github.com/resume/resume.github.com)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses)
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [A collection of .gitignore templates](https://github.com/github/gitignore)
+- [Curated list of awesome lists](https://github.com/sindresorhus/awesome)
+- [Learn_Computer_Science_in_5_Months](https://github.com/llSourcell/Learn_Computer_Science_in_5_Months)
+- [what-happens-when](https://github.com/alex/what-happens-when)
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+- [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+- [python-guide](https://github.com/realpython/python-guide)
+- [Public APIs](https://github.com/toddmotto/public-apis)
+- [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
+- [Udacity Nanodegrees](https://github.com/mikesprague/udacity-nanodegrees)
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go)
+- [awesome-flutter](https://github.com/Solido/awesome-flutter)
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+- [Papers with code](https://github.com/zziz/pwc)
+- [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
+- [Data Science Resources](https://github.com/Shujian2015/FreeML)
+- [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books)
+
 
 ## YouTube channels to subscribe
-*It's quite easy to waste a lot of time on YouTube, subscribe to these channels and you might end up learning something as well.* 
+*It's quite easy to waste a lot of time on YouTube, subscribe to these channels and you might end up learning something as well.*
+  
+  <details>
+  <summary>List</summary>
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+- [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
+- [Aperture](https://www.youtube.com/channel/UCO5QSoES5yn2Dw7YixDYT5Q)
+- [AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA)
+- [Big Think](https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg)
+- [Charisma on Command](https://www.youtube.com/channel/UCU_W0oE_ock8bWKjALiGs8Q)
+- [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+- [ColdFusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A)
+- [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+- [COOPH](https://www.youtube.com/channel/UCn5C6P1rxY6PEU6xUKapbCQ)
+- [Corpse Husband](https://www.youtube.com/channel/UCFNTq9XKHDNy_1-2lL0kqCg)
+- [https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)
+- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
+- [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+- [DEFCONConference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
+- [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
+- [edureka!](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
+- [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [Gate Lectures by Ravindrababu Ravula](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ)
+- [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
+- [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)
+- [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+- [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
+- [How It Should Have Ended](https://www.youtube.com/channel/UCHCph-_jLba_9atyCZJPLQQ)
+- [How to Adult](https://www.youtube.com/channel/UCFqaprvZ2K5JOULCvr18NTQ)
+- [It's Okay To Be Smart](https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw)
+- [Jordan B Peterson](https://www.youtube.com/channel/UCL_f53ZEJxp8TtlOkHwMV9Q)
+- [Kurzgesagt – In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
+- [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw)
+- [LEMMiNO](https://www.youtube.com/channel/UCRcgy6GzDeccI7dkbbBna3Q)
+- [LevelUpTuts](https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg)
+- [mathematicalmonk](https://www.youtube.com/channel/UCcAtD_VYwcYwVbTdvArsm7w)
+- [MatthewSantoro ](https://www.youtube.com/channel/UCXhSCMRRPyxSoyLSPFxK7VA)
+- [Neso Academy](https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A)
+- [nigahiga](https://www.youtube.com/channel/UCSAUGyc_xA8uYzaIVG6MESQ)
+- [PolyMatter](https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg)
+- [Real Engineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg)
+- [SciShow](https://www.youtube.com/channel/UCZYTClx2T1of7BRZ86-8fow)
+- [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ)
+- [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+- [Tech Insider](https://www.youtube.com/channel/UCVLZmDKeT-mV4H3ToYXIFYg)
+- [Techquickie](https://www.youtube.com/channel/UC0vBXGSyV14uvJ4hECDOl0Q)
+- [The Infographics Show](https://www.youtube.com/channel/UCfdNM3NAhaBOXCafH7krzrA)
+- [TheHappieCat](https://www.youtube.com/channel/UCBsuOBu-dxj5bx1KMgmar5g)
+- [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw)
+- [theRadBrad](https://www.youtube.com/channel/UCpqXJOEqGS-TCnazcHCo0rA)
+- [Thomas Frank](https://www.youtube.com/channel/UCG-KntY7aVnIGXYEBQvmBAQ)
+- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+- [Treehouse](https://www.youtube.com/channel/UCqHktcPJV7C7T3e9Cg4T4iw)
+- [Two Cents](https://www.youtube.com/channel/UCL8w_A8p8P1HWI3k6PR5Z6w)
+- [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+- [Verge Science](https://www.youtube.com/channel/UCtxJFU9DgUhfr2J2bveCHkQ)
+- [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
+- [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA)
+- [Zepherus](https://www.youtube.com/channel/UC-x0TtqNsBBQAQzFLnKZHnw)
+  
+  </details>
+*Have an awesome channel name that isn't on the list, feel free to add it to the list.*
 
 ## Binge Worthy
 *No one likes to study at all times, here are a few TV shows and movies you must watch.*
 
-## Honor Policy
+- [Mr. Robot](https://www.imdb.com/title/tt4158110/)
+- [Dynasties](https://www.imdb.com/title/tt9130692/?ref_=nv_sr_2)
+- [Black Mirror](https://www.imdb.com/title/tt2085059/?ref_=nv_sr_1)
+- [Westworld](https://www.imdb.com/title/tt0475784/?ref_=nv_sr_1)
+- [Silicon Valley](https://www.imdb.com/title/tt2575988/?ref_=nv_sr_1)
+- [Genius](https://www.imdb.com/title/tt5673782/?ref_=fn_al_tt_1)
 
 ## Contributing
 If you find a link broken or have better alternative resources you can contibute by submitting an issue or a pull request.
 
+- [learn-github](https://github.com/thesohelshaikh/learn-github)
+- [how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+
 ## Ask for help
+You can directly interact using [issues.](https://github.com/thesohelshaikh/hacknirma/issues)
+I may not be able to solve all your problems but i can provoide you the right guidance. You can reach me out at: sohelshaikh97@gmail.com
 
 ## References
+- http://www.nirmauni.ac.in/ITNU/CE/4/Subjects
+- https://github.com/ossu/computer-science
