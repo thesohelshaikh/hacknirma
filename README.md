@@ -256,6 +256,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 |     SS701    |     Organizational Behaviour    |      none     |
 |     SP701    |        Practical Training       |      none     |
 |     CE702    |          Minor Project          |      none     |
+|     IT7F4    |          Deep Learning          |      none     |
 
 #### IT724 Artificial Intelligence
 
@@ -263,6 +264,14 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Well Academy - YouTube playlist](https://www.youtube.com/playlist?list=PL9zFgBale5fug7z_YlD9M0x8gdZ7ziXen)
 - [Intro to AI - Udacity](https://in.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [NPTEL Videos by Dr. Dasgupta](https://nptel.ac.in/courses/106105079/)
+
+#### IT7F4 Deep Learning
+
+**Theory**
+- [CS321n](http://cs231n.github.io/convolutional-networks/)
+- [Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/)
+- [Deeplearning.ai Course](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
+
 
 ### Eighth Semester
 
