@@ -348,7 +348,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 - [COOPH](https://www.youtube.com/channel/UCn5C6P1rxY6PEU6xUKapbCQ)
 - [Corpse Husband](https://www.youtube.com/channel/UCFNTq9XKHDNy_1-2lL0kqCg)
-- [https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)
+- [Crash Course](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)
 - [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)
 - [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 - [DEFCONConference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
