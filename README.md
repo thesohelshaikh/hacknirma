@@ -25,7 +25,13 @@
   - [Sixth Semester](#sixth-semester)
   - [Seventh Semester](#seventh-semester)
   - [Eighth Semester](#eighth-semester)
-- [Code of conduct](#code-of-conduct)
+- [Exam Preparation checklist](#Exam-Preparation-checklist)
+- [Important Websites](#Important-Websites)
+- [Additional Resouces](#additional-resources)
+- [YouTube channels to subscribe](#YouTube-channels-to-subscribe)
+- [Binge Worthy](#binge-worthy)
+- [Contributing](#contributing)
+- [Ask for help](#ask-for-help)
 - [References](#references)
 
 ## Summary
@@ -300,6 +306,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 ## Additional Resources
 *At this point several resources might be repeating themselves but we don't want to miss any.*
 
+- [Qasim's Drive](https://drive.google.com/drive/folders/1Gfmc4SxpNk5YhxUBzanTyZgMs1E0kIPX?usp=sharing)
 - [OSSU Computer science](https://github.com/ossu/computer-science)
 - [GitHub Résumé](https://github.com/resume/resume.github.com)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
@@ -387,6 +394,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Zepherus](https://www.youtube.com/channel/UC-x0TtqNsBBQAQzFLnKZHnw)
   
   </details>
+  
 *Have an awesome channel name that isn't on the list, feel free to add it to the list.*
 
 ## Binge Worthy
