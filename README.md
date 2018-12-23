@@ -262,6 +262,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 **Theory**
 - [Well Academy - YouTube playlist](https://www.youtube.com/playlist?list=PL9zFgBale5fug7z_YlD9M0x8gdZ7ziXen)
 - [Intro to AI - Udacity](https://in.udacity.com/course/intro-to-artificial-intelligence--cs271)
+- [NPTEL Videos by Dr. Dasgupta](https://nptel.ac.in/courses/106105079/)
 
 ### Eighth Semester
 
