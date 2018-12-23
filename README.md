@@ -280,8 +280,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 |     CE801    | Major Project |      none     |
 
 ## Exam Preparation checklist
-*This method always guranteed 80-90% marks if followed correctly.*
-- [ ] Complete Syllabus
+- [ ] Complete Syllabus by reading prescribed text or watching videos
 - [ ] Go through lecture notes
 - [ ] Solve Tutorials
 - [ ] Solve previous year's question paper
