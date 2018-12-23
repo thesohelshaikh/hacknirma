@@ -337,6 +337,7 @@ These aren't prerequisites you should be already knowing rather these are concep
   
   <details>
   <summary>List</summary>
+  
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
 - [Aperture](https://www.youtube.com/channel/UCO5QSoES5yn2Dw7YixDYT5Q)
