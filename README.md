@@ -55,6 +55,13 @@ These aren't prerequisites you should be already knowing rather these are concep
 
   *This course teaches you a lot about how your brain works and what are the best memorization techniques. You can skip this if you are confident with your learning skills.*
   
+- [Physics - Khan Academy](https://www.khanacademy.org/science/physics)
+- [Chemistry - Khan Academy](https://www.khanacademy.org/science/chemistry)
+- [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering)
+- []()
+  
+  *If you need a refresher for core math or science then please go through these videos.*
+ 
 ## Curriculum
 
 ### First Semester
@@ -70,9 +77,32 @@ These aren't prerequisites you should be already knowing rather these are concep
 |     CL103    | Environmental Studies               |       none      |
 
 #### CE104 Computer Programming
+
+**Theory**
+- [C Programming with Linux - edX](https://www.edx.org/professional-certificate/dartmouth-imtx-c-programming-with-linux)
+- [Introduction to Programming in C - NPTEL](https://onlinecourses.nptel.ac.in/noc18_cs33/preview)
+
 **Practical**
 - [C Programming tutorials - YouTube playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
+- [How to Use Git and GitHub - Udacity](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
 
+#### CY102 Chemistry
+
+**Theory**
+- [Organic chemistry - Khan Academy](https://www.khanacademy.org/science/organic-chemistry)
+
+#### MA102 Calculus and Differential Equations
+
+**Theory**
+- [Precalculus - Khan Academy](https://www.khanacademy.org/math/precalculus)
+- [Calculus - Khan Academy](https://www.khanacademy.org/math/calculus-1)
+- [Differential Equations - Khan Academy](https://www.khanacademy.org/math/differential-equations)
+- [Single variable calculus - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+
+#### CL103 Environmental Studies
+
+**Theory**
+- [Making Sense of Climate Science Denial - edX](https://www.edx.org/course/making-sense-of-climate-science-denial-1)
 
 ### Second Semester
 
@@ -96,6 +126,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 #### CE105 Introduction to Computer Science and Engineering
 
 **Theory**
+- [Computer Science - Khan Academy](https://www.khanacademy.org/computing/computer-science)
 - [Introduction to Computer Science and Programming using Python - MITx edX](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
 
 ### Third Semester
@@ -104,7 +135,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 |:------------:|:-------------------------------------------:|:-------------:|
 |     EC321    | Basic Electronics                           |      EEE      |
 |     CE301    | Digital Systems                             |      none     |
-|     CE302    | Object Oriented Programming                 |      none     |
+|     CE302    | Object Oriented Programming                 |      programming     |
 |     CE303    | Mathematical foundation of Computer Science |      none     |
 |     SS342    | ICT Tools and Security                      |      none     |
 |     SP343    | Enterpreneurship                            |      none     |
@@ -124,17 +155,34 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Build a Modern Computer from First Principles: From Nand to Tetris - Coursera](https://www.coursera.org/learn/build-a-computer)
 - [Digital Circuits - MITx edx](https://www.edx.org/course/computation-structures-part-1-digital-mitx-6-004-1x-0)
 
+#### CE302 Object Oriented Programming
+
+**Theory/Practical**
+- [Java Tutorial - javaTpoint](https://www.javatpoint.com/java-tutorial)
+- [Java Tutorial - Tutorialspoint](https://www.tutorialspoint.com/java/)
+- [Fork Java - GeeksforGeeks](https://practice.geeksforgeeks.org/courses/fork-java)
+- [Learn Java - Codeacademy](https://www.codecademy.com/learn/learn-java)
+- [Java Tutorial - freecodecamp](https://www.youtube.com/watch?v=grEKMHGYyns)
+- [Java Programming Tutorials - thenewboston](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28) *This is only for vert beginners.*
+
 #### CE303 Mathematical foundation of Computer Science
 
 **Theory**
 - [Math for Computer Science - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+- [Mathematical Thinking in Computer Science - Coursera](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics)
+
+#### SP343 Enterpreneurship
+
+**Theory/Practical**
+- [Entrepreneurship - Khan Academy](https://www.khanacademy.org/college-careers-more/entrepreneurship2)
+- [How to start a startupn Stanford - YouTube playlist](https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PL5q_lef6zVkaTY_cT1k7qFNF2TidHCe-1) *Optional*
 
 ### Fourth Semester
 
 | Subject Code |                    Subject                    | Prerequisites |
 |:------------:|:---------------------------------------------:|:-------------:|
 |     CE401    | Data Communication                            |      none     |
-|     CE402    | Computer Organization                         |      DS       |
+|     CE402    | Computer Organization                         |      Digital Systems       |
 |     CE403    | Data Structures                               |      CP / AOP |
 |     MA403    | Probability Statistics and Numerical Analysis |      none     |
 |     CE404    | Seminar                                       |      none     |
@@ -151,10 +199,11 @@ These aren't prerequisites you should be already knowing rather these are concep
 
 #### CE403 Data Structures
 
-**Theory**
+**Theory/Practicals**
 - [Data Structures- GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
 - [Data Structures mycodeschool - YouTube playlist](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
+- [Data Structures and Algorithms, NPTEl - YouTube playlist](https://www.youtube.com/watch?v=zWg7U0OEAoE&list=PLBF3763AF2E1C572F)
 
 #### MA403 Probability Statistics and Numerical Analysis
 
@@ -167,15 +216,26 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Justice - edX](https://www.edx.org/course/justice)
 - [Psychology CrashCourse - YouTube playlist](https://www.youtube.com/watch?v=vo4pMVb0R6M&list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6)
 
+- [Introduction to Psychology with Paul Bloom - YouTube playlist](https://www.youtube.com/watch?v=P3FKHH2RzjI&list=PL6A08EB4EEFF3E91F) *Optional*
+- [Maps of Meaning, Jordan Peterson](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h) *Optional*
+
+#### SP341 Economics for Engineers
+
+**Theory**
+- [Crash Course: Economics - YouTube playlist](https://www.youtube.com/watch?v=3ez10ADR_gM&list=PL8dPuuaLjXtPNZwz5_o_5uirJ8gQXnhEO)
+- [Macroeconomics - Khan Academy](https://www.khanacademy.org/economics-finance-domain/macroeconomics)
+- [Microeconomics - Khan Academy](https://www.khanacademy.org/economics-finance-domain/microeconomics)
+- [Finance and capital markets - Khan Academy](https://www.khanacademy.org/economics-finance-domain/core-finance) *Optional*
+
 ### Fifth Semester
 
 | Subject Code |           Subject          | Prerequisites |
 |:------------:|:--------------------------:|:-------------:|
 |     CE501    | Theory of Computation      |      MFCS     |
-|     CE502    | Database Management System |      none     |
-|     CE503    | Computer Networks          |      DC       |
+|     CE502    | Database Management System |      programming     |
+|     CE503    | Computer Networks          |      Data Communication       |
 |     CE504    | Operating Systems          |    AOP/EOP    |
-|     IT502    | Web Designing              |      none     |
+|     IT502    | Web Designing              |      programming     |
 |     SS562    | Law for Engineers          |      none     |
 |     SP501    | Fractional Course          |      none     |
 |     CE505    | Mini Project - II          |      none     |
@@ -201,11 +261,17 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)
 - [SQL Tutorial - GeeksforGeeks](https://www.geeksforgeeks.org/sql-tutorial/)
 
-#### CE501 Computer Networks
+- [Learn MongoDB - MongoDB University](https://university.mongodb.com/) *Optional*
+
+#### CE503 Computer Networks
 
 **Theory**
 - [Introduction to Computer Networking - Stanford lagunita](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 - [The Bits and Bytes of Computer Networking - Coursera](https://www.coursera.org/learn/computer-networking)
+
+**Practicals**
+- [Cisco Packet Tracer - YouTube playlist](https://www.youtube.com/watch?v=Vvm2ALw6lHc&list=PLGwb7xZHg-oPH_ElcCMEj8UCztW5yl9iT)
+- [Cisco CCNA 1 - Introduction to Networking](https://www.youtube.com/watch?v=dek5EbKQIVQ&list=PL33E07ECCA73C0755) *Optional*
 
 #### CE504 Operating Systems
 *This course will be very helpful at the time of interviews and as a CS student you must have the core concepts clear.*
@@ -240,32 +306,41 @@ These aren't prerequisites you should be already knowing rather these are concep
 | Subject Code |                 Subject                 |  Prerequisites  |
 |:------------:|:---------------------------------------:|:---------------:|
 |     CE601    |    Design and Analysis of Algorithms    | Data Structures |
-|     IT601    |           Software Engineering          |       none      |
+|     IT601    |           Software Engineering          |       OOP      |
 |     SS561    |        Creativity and Innovation        |       none      |
 |     CE602    |            Mini Project- III            |       none      |
 |     SP601    | Capstone Course ( Computer Engineering) |       none      |
-|     CE621    |               Java Technologies (Elective I)              |      none     |
-|     CE661    | Mobile Applications Development Technologies (Elective I) |      none     |
+|     CE621    |               Java Technologies (Elective I)              |      OOP     |
+|     CE661    | Mobile Applications Development Technologies (Elective I) |      OOP     |
 |     IT652    |       Network Security and Encryption (Elective II)       |      none     |
 |     IT662    |               Cloud Computing (Elective II)               |      none     |
-|     CE623    |              Machine Learning (Elective III)              |      none     |
+|     CE623    |              Machine Learning (Elective III)              |      linear algebra     |
 
 #### CE601 Design and Analysis of Algorithms
 
 **Theory**
 - [Design and Analysis of Algorithms - NPTEL](https://nptel.ac.in/courses/106101060/)
+- [Steven Skiena - YouTube playlist](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
+- [Algorithms: Design and Analysis, Part I - Stanford Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
+- [Algorithms: Design and Analysis, Part II - Stanford Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
+
+#### IT601 Software Engineering 
+
+**Theory**
+- [Software Engineering: Introduction - edX](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
 #### CE623 Machine Learning
 
 **Theory**
-- [Machine Learning - Coursera](https://www.coursera.org/learn/machine-learning)
+- [Machine Learning, Stanford - Coursera](https://www.coursera.org/learn/machine-learning)
+- [Machine Learning Crash Course - Google Developers](https://developers.google.com/machine-learning/crash-course/)
 
 ### Seventh Semester
 
 | Subject Code |             Subject             | Prerequisites |
 |:------------:|:-------------------------------:|:-------------:|
 |     IT724    |     Artificial Intelligence     |      none     |
-|     IT794    |      Compiler Construction      |      none     |
+|     IT794    |      Compiler Construction      |      THOC     |
 |     CE701    | Interfacing with Microprocessor |      none     |
 |     CE703    |   Open source development lab   |      none     |
 |     SS701    |     Organizational Behaviour    |      none     |
@@ -279,6 +354,11 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Well Academy - YouTube playlist](https://www.youtube.com/playlist?list=PL9zFgBale5fug7z_YlD9M0x8gdZ7ziXen)
 - [Intro to AI - Udacity](https://in.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [NPTEL Videos by Dr. Dasgupta](https://nptel.ac.in/courses/106105079/)
+
+#### IT794 Compilers
+
+**Theory**
+- [Compilers - Stanford Lagunita](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 
 #### IT7F4 Deep Learning
 
