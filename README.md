@@ -35,31 +35,32 @@
 - [References](#references)
 
 ## Summary
-This curriculum was designed to help you with your Bachelor's for computer engineering using online material. The aim is give you complete understanding of the field including industry standards and best practices. The goal is not to score high grades although if followed correctly scoring marks will be easy. We have compiled some of the best resources for each domain available freely online. 
+This curriculum was designed to help you with your Bachelor's for computer engineering using online material. The aim is to give you a complete understanding of the field including industry standards and best practices. The goal is not to score high grades although if followed correctly scoring marks will be easy. We have compiled some of the best resources for each domain available freely online. 
 
 The courses prescribed are from the top universities and often best in their field and often there are no substitutes. Still feel free to post an issue if you have found a resource that could help us.
 
 ## Disclaimer
-This course was designed by students at Nirma University and cannot substitute a Bachelor's Degree. This curriculum doesn't guarantee good grades or a job. You are solely responsible if you choose to pursue this curriculum or any of the below mentioned courses.
+This course was designed by students at Nirma University and cannot substitute a Bachelor's Degree. This curriculum doesn't guarantee good grades or a job. You are solely responsible if you choose to pursue this curriculum or any of the below-mentioned courses.
 
-This courses are additional to the text prescribed in syllabus and thus it is very important to read the text first and use these resources in a complementary manner.
+These courses are additional to the text prescribed in the syllabus and thus it is very important to read the text first and use these resources in a complimentary manner.
 
 ## Prerequisites
 These aren't prerequisites you should be already knowing rather these are concepts which are better if cleared before taking up the regular courses. 
 
 - [Introduction to Computer Science CS50 - edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
     
-  *You don't need to complete the course, however you are expected to complete the course uptill where it deviates from C and moves on to python. Also if you have the time you can complete the course.*
+  *You don't need to complete the whole course. However, you are expected to complete the course until where it deviates from C and moves on to python. Also if you have the time you can complete the course.*
   
 - [Learning How to Learn - Coursera](https://www.coursera.org/learn/learning-how-to-learn/) **(Optional)**
 
-  *This course teaches you a lot about how you brain works and what are the best memorization techniques. You can skip this if you are confident with your learning skills.*
+  *This course teaches you a lot about how your brain works and what are the best memorization techniques. You can skip this if you are confident with your learning skills.*
+  
 ## Curriculum
 
 ### First Semester
 
 | Subject Code |               Subject               |  Prerequisites  |
-|:------------:|:------------------------------------|:---------------:|
+|:------------:|:-----------------------------------:|:---------------:|
 |     SP105    | ICT Tools and Cyber Security        |       none      |
 |     CE104    | Computer Programming                |       none      |
 |     MA102    | Calculus and Differential Equations | Calculus basics |
@@ -76,7 +77,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 ### Second Semester
 
 | Subject Code |                       Subject                      | Prerequisites                           |
-|:------------:|:---------------------------------------------------|:---------------------------------------:|
+|:------------:|:--------------------------------------------------:|:---------------------------------------:|
 |     ME104    | Mechanical Workshop                                |      none                               |
 |     EE103    | Elements of Electrical and Electronics Engineering |      none                               |
 |     EE104    | Electrical Workshop                                |      none                               |
@@ -180,7 +181,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 |     CE505    | Mini Project - II          |      none     |
 
 #### CE501 Theory of Computation
-*This is the most abtract and fundamental subject of Computer Science so you might want to pay extra attention to this subject.*
+*This is the most abstract and fundamental subject of Computer Science so you might want to pay extra attention to this subject.*
 
 **Theory**
 - [Ravindrababu Ravula - YouTube playlist](https://www.youtube.com/watch?v=eqCkkC9A0Q4&index=1&list=PLEbnTDJUr_IdM___FmDFBJBz0zCsOFxfK)
@@ -304,7 +305,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Moodle](http://ams.nirmauni.ac.in/moodle259/login/index.php)
 
 ## Additional Resources
-*At this point several resources might be repeating themselves but we don't want to miss any.*
+*At this point, several resources might be repeating themselves but we don't want to miss any.*
 
 - [Qasim's Drive](https://drive.google.com/drive/folders/1Gfmc4SxpNk5YhxUBzanTyZgMs1E0kIPX?usp=sharing)
 - [OSSU Computer science](https://github.com/ossu/computer-science)
@@ -330,6 +331,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses)
 - [Data Science Resources](https://github.com/Shujian2015/FreeML)
 - [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books)
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 
 ## YouTube channels to subscribe
@@ -411,14 +413,14 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [The IT Crowd](https://www.imdb.com/title/tt0487831/)
 
 ## Contributing
-If you find a link broken or have better alternative resources you can contibute by submitting an issue or a pull request.
+If you find a link broken or have better alternative resources you can contribute by submitting an issue or a pull request.
 
 - [learn-github](https://github.com/thesohelshaikh/learn-github)
 - [how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 
 ## Ask for help
 You can directly interact using [issues.](https://github.com/thesohelshaikh/hacknirma/issues)
-I may not be able to solve all your problems but i can provoide you the right guidance. You can reach me out at: sohelshaikh97@gmail.com
+I may not be able to solve all your problems but I can provide you with the right guidance. You can reach me out at sohelshaikh97@gmail.com
 
 ## References
 - http://www.nirmauni.ac.in/ITNU/CE/4/Subjects
