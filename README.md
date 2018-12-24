@@ -27,7 +27,7 @@
   - [Eighth Semester](#eighth-semester)
 - [Exam Preparation checklist](#Exam-Preparation-checklist)
 - [Important Websites](#Important-Websites)
-- [Additional Resouces](#additional-resources)
+- [Additional Resources](#additional-resources)
 - [YouTube channels to subscribe](#YouTube-channels-to-subscribe)
 - [Binge Worthy](#binge-worthy)
 - [Contributing](#contributing)
