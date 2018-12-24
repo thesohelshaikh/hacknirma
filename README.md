@@ -380,6 +380,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Awesome Deep Learning Project Ideas](https://github.com/NirantK/awesome-project-ideas)
 - [open-source-ideas](https://github.com/open-source-ideas/open-source-ideas/issues)
 - [Project Ideas - OSIRIS Lab](https://github.com/osirislab/Project-Ideas/issues)
+- [Better project ideas - Medium](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d)
 
 ## Exam Preparation checklist
 - [ ] Complete Syllabus by reading prescribed text or watching videos
