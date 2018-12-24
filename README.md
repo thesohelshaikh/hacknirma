@@ -25,6 +25,7 @@
   - [Sixth Semester](#sixth-semester)
   - [Seventh Semester](#seventh-semester)
   - [Eighth Semester](#eighth-semester)
+  - [Project Ideas](#project-deas)
 - [Exam Preparation checklist](#Exam-Preparation-checklist)
 - [Important Websites](#Important-Websites)
 - [Additional Resources](#additional-resources)
@@ -58,7 +59,6 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Physics - Khan Academy](https://www.khanacademy.org/science/physics)
 - [Chemistry - Khan Academy](https://www.khanacademy.org/science/chemistry)
 - [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering)
-- []()
   
   *If you need a refresher for core math or science then please go through these videos.*
  
@@ -203,7 +203,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Data Structures- GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
 - [Data Structures mycodeschool - YouTube playlist](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 - [Data Structures - Coursera](https://www.coursera.org/learn/data-structures)
-- [Data Structures and Algorithms, NPTEl - YouTube playlist](https://www.youtube.com/watch?v=zWg7U0OEAoE&list=PLBF3763AF2E1C572F)
+- [Data Structures and Algorithms, NPTEL - YouTube playlist](https://www.youtube.com/watch?v=zWg7U0OEAoE&list=PLBF3763AF2E1C572F)
 
 #### MA403 Probability Statistics and Numerical Analysis
 
@@ -367,12 +367,19 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/)
 - [Deeplearning.ai Course](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
 
-
 ### Eighth Semester
 
 | Subject Code |    Subject    | Prerequisites |
 |:------------:|:-------------:|:-------------:|
 |     CE801    | Major Project |      none     |
+
+
+### Project Ideas
+- [Project Based Learning](https://github.com/tuvtran/project-based-learning)
+- [Mega Project List](https://github.com/karan/Projects)
+- [Awesome Deep Learning Project Ideas](https://github.com/NirantK/awesome-project-ideas)
+- [open-source-ideas](https://github.com/open-source-ideas/open-source-ideas/issues)
+- [Project Ideas - OSIRIS Lab](https://github.com/osirislab/Project-Ideas/issues)
 
 ## Exam Preparation checklist
 - [ ] Complete Syllabus by reading prescribed text or watching videos
