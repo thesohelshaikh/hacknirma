@@ -25,7 +25,7 @@
   - [Sixth Semester](#sixth-semester)
   - [Seventh Semester](#seventh-semester)
   - [Eighth Semester](#eighth-semester)
-  - [Project Ideas](#project-deas)
+  - [Project Ideas](#project-ideas)
 - [Exam Preparation checklist](#Exam-Preparation-checklist)
 - [Important Websites](#Important-Websites)
 - [Additional Resources](#additional-resources)
