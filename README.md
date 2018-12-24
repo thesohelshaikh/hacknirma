@@ -27,7 +27,7 @@
   - [Eighth Semester](#eighth-semester)
 - [Exam Preparation checklist](#Exam-Preparation-checklist)
 - [Important Websites](#Important-Websites)
-- [Additional Resouces](#additional-resources)
+- [Additional Resources](#additional-resources)
 - [YouTube channels to subscribe](#YouTube-channels-to-subscribe)
 - [Binge Worthy](#binge-worthy)
 - [Contributing](#contributing)
@@ -42,7 +42,7 @@ The courses prescribed are from the top universities and often best in their fie
 ## Disclaimer
 This course was designed by students at Nirma University and cannot substitute a Bachelor's Degree. This curriculum doesn't guarantee good grades or a job. You are solely responsible if you choose to pursue this curriculum or any of the below mentioned courses.
 
-This courses are additional to the text prescribed in syllabus and thus it is very important to read the text first and use these resurces in a complimentary manner.
+This courses are additional to the text prescribed in syllabus and thus it is very important to read the text first and use these resources in a complementary manner.
 
 ## Prerequisites
 These aren't prerequisites you should be already knowing rather these are concepts which are better if cleared before taking up the regular courses. 
