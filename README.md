@@ -36,32 +36,32 @@
 - [References](#references)
 
 ## Summary
-This curriculum was designed to help you with your Bachelor's for computer engineering using online material. The aim is to give you a complete understanding of the field including industry standards and best practices. The goal is not to score high grades although if followed correctly scoring marks will be easy. We have compiled some of the best resources for each domain available freely online. 
+This curriculum was designed to help you with your Bachelor's for computer engineering using online material. The aim is to give you a complete understanding of the field including industry standards and best practices. The goal is not to score high grades although if followed correctly scoring marks will be easy. We have compiled some of the best resources for each domain available freely online.
 
 The courses prescribed are from the top universities and often best in their field and often there are no substitutes. Still feel free to post an issue if you have found a resource that could help us.
 
 ## Disclaimer
 This course was designed by students at Nirma University and cannot substitute a Bachelor's Degree. This curriculum doesn't guarantee good grades or a job. You are solely responsible if you choose to pursue this curriculum or any of the below-mentioned courses.
 
-These courses are additional to the text prescribed in the syllabus and thus it is very important to read the text first and use these resources in a complimentary manner.
+These courses are in addition to the text prescribed in the syllabus and thus it is very important to read the text first and use these resources in a complementary manner.
 
 ## Prerequisites
-These aren't prerequisites you should be already knowing rather these are concepts which are better if cleared before taking up the regular courses. 
+These aren't prerequisites you should be already knowing rather these are concepts which are better if cleared before taking up the regular courses.
 
 - [Introduction to Computer Science CS50 - edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
-    
+
   *You don't need to complete the whole course. However, you are expected to complete the course until where it deviates from C and moves on to python. Also if you have the time you can complete the course.*
-  
+
 - [Learning How to Learn - Coursera](https://www.coursera.org/learn/learning-how-to-learn/) **(Optional)**
 
   *This course teaches you a lot about how your brain works and what are the best memorization techniques. You can skip this if you are confident with your learning skills.*
-  
+
 - [Physics - Khan Academy](https://www.khanacademy.org/science/physics)
 - [Chemistry - Khan Academy](https://www.khanacademy.org/science/chemistry)
 - [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering)
-  
+
   *If you need a refresher for core math or science then please go through these videos.*
- 
+
 ## Curriculum
 
 ### First Semester
@@ -138,7 +138,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 |     CE302    | Object Oriented Programming                 |      programming     |
 |     CE303    | Mathematical foundation of Computer Science |      none     |
 |     SS342    | ICT Tools and Security                      |      none     |
-|     SP343    | Enterpreneurship                            |      none     |
+|     SP343    | Entrepreneurship                            |      none     |
 |     SP344    | Community Services                          |      none     |
 |     MA306    | Applied Mathematics                         |      Calculus     |
 
@@ -274,7 +274,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Cisco CCNA 1 - Introduction to Networking](https://www.youtube.com/watch?v=dek5EbKQIVQ&list=PL33E07ECCA73C0755) *Optional*
 
 #### CE504 Operating Systems
-*This course will be very helpful at the time of interviews and as a CS student you must have the core concepts clear.*
+*This course will be very helpful at the time of interviews and as a CS student, you must have the core concepts clear.*
 
 **Theory:**
 - [Introduction to Operating Systems - Udacity](https://classroom.udacity.com/courses/ud923/)
@@ -296,7 +296,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Responsive Web Design - freeCodeCamp](https://learn.freecodecamp.org/)
 - [Traversy media - YouTube](https://www.youtube.com/user/TechGuyWeb/playlists)
 
-#### SS562 Law for Engineers 
+#### SS562 Law for Engineers
 
 **Theory**
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLgNUCz66KaWSlBNiBY-GGs935p4dT1GiS)
@@ -324,7 +324,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Algorithms: Design and Analysis, Part I - Stanford Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 - [Algorithms: Design and Analysis, Part II - Stanford Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
 
-#### IT601 Software Engineering 
+#### IT601 Software Engineering
 
 **Theory**
 - [Software Engineering: Introduction - edX](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
@@ -424,10 +424,10 @@ These aren't prerequisites you should be already knowing rather these are concep
 
 ## YouTube channels to subscribe
 *It's quite easy to waste a lot of time on YouTube, subscribe to these channels and you might end up learning something as well.*
-  
+
   <details>
   <summary>List</summary>
-  
+
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
 - [Aperture](https://www.youtube.com/channel/UCO5QSoES5yn2Dw7YixDYT5Q)
@@ -484,9 +484,9 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
 - [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA)
 - [Zepherus](https://www.youtube.com/channel/UC-x0TtqNsBBQAQzFLnKZHnw)
-  
+
   </details>
-  
+
 *Have an awesome channel name that isn't on the list, feel free to add it to the list.*
 
 ## Binge Worthy
