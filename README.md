@@ -62,6 +62,9 @@ These aren't prerequisites you should be already knowing rather these are concep
 
   *If you need a refresher for core math or science then please go through these videos.*
 
+  *I also made a playlist that has some MS Word Tutorials. These wil come in handy while documenting and researching.*
+- [Word Tutorial](https://www.youtube.com/playlist?list=PLgNUCz66KaWTWdk37u06QeZhr0WBZsJBT)
+  
 ## Curriculum
 
 ### First Semester
