@@ -317,7 +317,8 @@ These aren't prerequisites you should be already knowing rather these are concep
 |     CE661    | Mobile Applications Development Technologies (Elective I) |      OOP     |
 |     IT652    |       Network Security and Encryption (Elective II)       |      none     |
 |     IT662    |               Cloud Computing (Elective II)               |      none     |
-|     CE623    |              Machine Learning (Elective III)              |      linear algebra     |
+|     CE623    |              Machine Learning (Elective III)              |      linear algebra, statistics     |
+|     CE633    |              Data Mining (Elective III)              |     statistics     |
 
 #### CE601 Design and Analysis of Algorithms
 
@@ -337,6 +338,11 @@ These aren't prerequisites you should be already knowing rather these are concep
 **Theory**
 - [Machine Learning, Stanford - Coursera](https://www.coursera.org/learn/machine-learning)
 - [Machine Learning Crash Course - Google Developers](https://developers.google.com/machine-learning/crash-course/)
+
+#### CE633 Data Mining
+
+**Theory**
+- [Intro to Statistics - Udacity](https://in.udacity.com/course/intro-to-statistics--st101) *Optional*
 
 ### Seventh Semester
 
