@@ -319,6 +319,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 |     IT662    |               Cloud Computing (Elective II)               |      none     |
 |     CE623    |              Machine Learning (Elective III)              |      linear algebra, statistics     |
 |     CE633    |              Data Mining (Elective III)              |     statistics     |
+|     SS701    |     Organizational Behaviour    |      none     |
 
 #### CE601 Design and Analysis of Algorithms
 
@@ -334,15 +335,21 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Software Engineering: Introduction - edX](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
 
 #### CE623 Machine Learning
+*If you need a refresher in linear algebra or probability, you can find resources above.*
 
 **Theory**
+- [Intro to Statistics - Udacity](https://in.udacity.com/course/intro-to-statistics--st101) *Optional*
 - [Machine Learning, Stanford - Coursera](https://www.coursera.org/learn/machine-learning)
 - [Machine Learning Crash Course - Google Developers](https://developers.google.com/machine-learning/crash-course/)
+- [Learning from Data, Caltech - Youtube playlist](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A) *For beginners*
+- [Introduction to Machine Learning, fast.ai - Youtube playlist](https://www.youtube.com/watch?v=CzdWqFTmn0Y&list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96)
 
 #### CE633 Data Mining
 
 **Theory**
 - [Intro to Statistics - Udacity](https://in.udacity.com/course/intro-to-statistics--st101) *Optional*
+- [Data Mining - NPTEL](https://nptel.ac.in/courses/106105174/)
+- [Learning from Data, Caltech - Youtube playlist](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A) *For beginners*
 
 ### Seventh Semester
 
@@ -352,7 +359,6 @@ These aren't prerequisites you should be already knowing rather these are concep
 |     IT794    |      Compiler Construction      |      THOC     |
 |     CE701    | Interfacing with Microprocessor |      none     |
 |     CE703    |   Open source development lab   |      none     |
-|     SS701    |     Organizational Behaviour    |      none     |
 |     SP701    |        Practical Training       |      none     |
 |     CE702    |          Minor Project          |      none     |
 |     IT7F4    |          Deep Learning          |      none     |
