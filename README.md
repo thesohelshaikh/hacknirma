@@ -219,7 +219,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Justice - edX](https://www.edx.org/course/justice)
 - [Psychology CrashCourse - YouTube playlist](https://www.youtube.com/watch?v=vo4pMVb0R6M&list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6)
 
-- [Introduction to Psychology with Paul Bloom - YouTube playlist](https://www.youtube.com/watch?v=P3FKHH2RzjI&list=PL6A08EB4EEFF3E91F) *Optional*
+- [Introduction to Psychology with Paul Bloom, Yale - Coursera](https://www.coursera.org/learn/introduction-psychology) *Optional*
 - [Maps of Meaning, Jordan Peterson](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h) *Optional*
 
 #### SP341 Economics for Engineers
