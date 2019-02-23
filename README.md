@@ -325,6 +325,8 @@ These aren't prerequisites you should be already knowing rather these are concep
 
 **Theory**
 - [Design and Analysis of Algorithms - NPTEL](https://nptel.ac.in/courses/106101060/)
+- [Algorithms by Abdul Bari - Youtube playlist](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+- [Algoritms by Ravindrababu Ravula - Youtube](https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0)
 - [Steven Skiena - YouTube playlist](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
 - [Algorithms: Design and Analysis, Part I - Stanford Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 - [Algorithms: Design and Analysis, Part II - Stanford Lagunita](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about)
@@ -350,6 +352,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Intro to Statistics - Udacity](https://in.udacity.com/course/intro-to-statistics--st101) *Optional*
 - [Data Mining - NPTEL](https://nptel.ac.in/courses/106105174/)
 - [Learning from Data, Caltech - Youtube playlist](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A) *For beginners*
+- [Mining Massive Datasets - Stanford Lagunita](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
 
 ### Seventh Semester
 
