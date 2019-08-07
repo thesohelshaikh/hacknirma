@@ -363,9 +363,13 @@ These aren't prerequisites you should be already knowing rather these are concep
 #### IT7F4 Deep Learning
 
 **Theory**
-- [CS321n](http://cs231n.github.io/convolutional-networks/)
 - [Deep Learning by Ian Goodfellow](https://www.deeplearningbook.org/)
+- [Convolutional Neural Networks for Visual Recognition - Stanford](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+- [CNN notes - Stanford](http://cs231n.github.io/convolutional-networks/)
 - [Deeplearning.ai Course](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)
+
+**Practicals**
+- [Introduction to TensorFlow - Udacity](https://classroom.udacity.com/courses/ud187)
 
 ### Eighth Semester
 
