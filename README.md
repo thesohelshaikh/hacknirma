@@ -378,6 +378,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 
 **Theory**
 - [Compilers - Stanford Lagunita](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
+- [Compiler Design by Randrababu Ravula - YouTube](https://www.youtube.com/playlist?list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS)
 
 #### IT7F4 Deep Learning
 
