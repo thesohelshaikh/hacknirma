@@ -166,7 +166,7 @@ These aren't prerequisites you should be already knowing rather these are concep
 - [Fork Java - GeeksforGeeks](https://practice.geeksforgeeks.org/courses/fork-java)
 - [Learn Java - Codeacademy](https://www.codecademy.com/learn/learn-java)
 - [Java Tutorial - freecodecamp](https://www.youtube.com/watch?v=grEKMHGYyns)
-- [Java Programming Tutorials - thenewboston](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28) *This is only for vert beginners.*
+- [Java Programming Tutorials - thenewboston](https://www.youtube.com/watch?v=Hl-zzrqQoSE&list=PLFE2CE09D83EE3E28) *This is only for very beginners.*
 
 #### CE303 Mathematical foundation of Computer Science
 
